@@ -16,6 +16,7 @@ This project was developed with the following technologies:
 - JavaScript
 - React
 - TypeScript
+- SCSS
 
 ## 💻 Project
 
